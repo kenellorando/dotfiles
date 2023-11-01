@@ -1,5 +1,4 @@
 alias myip="dig +short myip.opendns.com @resolver1.opendns.com"
-alias docker="podman"
 alias d="docker"
 alias k="kubectl"
 alias mkdir="mkdir -pv"
